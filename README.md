@@ -29,7 +29,7 @@ To use the Database Advising System, follow these steps:
 
 ## Contributors
 
-- [Amr Khaled]([link-to-profile](https://github.com/amrkhaled04))
-- [Omar Saqr]([link-to-profile](https://github.com/Omarsaqr))
-- [Omar Mostafa]([link-to-profile](https://github.com/omar-medhat2)https://github.com/omar-medhat2)
-- [Youssef Mansour]
+- [Amr Khaled](https://github.com/amrkhaled04)
+- [Omar Saqr](https://github.com/Omarsaqr)
+- [Omar Mostafa](https://github.com/omar-medhat2)
+- Youssef Mansour

@@ -32,4 +32,4 @@ To use the Database Advising System, follow these steps:
 - [Amr Khaled](https://github.com/amrkhaled04)
 - [Omar Saqr](https://github.com/Omarsaqr)
 - [Omar Mostafa](https://github.com/omar-medhat2)
-- Youssef Mansour
+- [Youssef Mansour](https://github.com/YoussefMansoor)
